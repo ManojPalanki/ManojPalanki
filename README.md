@@ -130,15 +130,6 @@ Projects will include:
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManojPalanki&show_icons=true" alt="Manoj's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPalanki&layout=compact" alt="Top Languages" />
----
-
 ## 🤝 Connect With Me
 
 📧 Email: manojpalanki09@gmail.com
