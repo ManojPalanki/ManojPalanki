@@ -132,10 +132,11 @@ Projects will include:
 
 ## 📊 GitHub Stats
 
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojPalanki&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ManojPalanki&show_icons=true" alt="Manoj's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPalanki&layout=compact&theme=tokyonight)
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojPalanki&layout=compact" alt="Top Languages" />
 ---
 
 ## 🤝 Connect With Me
