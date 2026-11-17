@@ -4,12 +4,6 @@
 
 I turn raw data into clear insights and business decisions. I'm a B.Tech graduate (2026) in Artificial Intelligence & Data Science from PACE Institute of Technology and Sciences, Andhra Pradesh, and I'm looking for my first Data Analyst role.
 
-![SQL](https://img.shields.io/badge/SQL-HackerRank%20Certified-CC2927?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Data%20Modeling-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=flat-square&logo=tableau&logoColor=white)
-
 📍 Bengaluru, India · 📧 [manojpalanki09@gmail.com](mailto:manojpalanki09@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/manoj-palanki/)
 
 ---
