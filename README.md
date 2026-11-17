@@ -1,62 +1,82 @@
-<!--
-**ManojPalanki/ManojPalanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi 👋, I'm Manoj Palanki
 
-## 👨‍💻 About Me
+### Aspiring Data Analyst · SQL · Python · Power BI · Excel
 
-B.Tech graduate (2026) in Artificial Intelligence & Data Science from PACE Institute of Technology and Sciences, Andhra Pradesh.
+I turn raw data into clear insights and business decisions. I'm a B.Tech graduate (2026) in Artificial Intelligence & Data Science from PACE Institute of Technology and Sciences, Andhra Pradesh, and I'm looking for my first Data Analyst role.
 
-I'm an aspiring Data Analyst focused on transforming raw data into meaningful insights and business decisions. I work with SQL, Python, Excel, Power BI, and Tableau to clean data, perform exploratory analysis, identify trends, and build interactive dashboards.
+![SQL](https://img.shields.io/badge/SQL-HackerRank%20Certified-CC2927?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Data%20Modeling-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-I have completed a 10-week Data Analytics with Python & Power BI Virtual Internship through EduSkills Academy and the Deloitte Australia Data Analytics Job Simulation.
-
-🏅 HackerRank SQL Certified — Basic, Intermediate & Advanced  
-📊 Power BI — Power Query, DAX, Data Modeling, Interactive Dashboards  
-🐍 Python — Pandas, NumPy, Matplotlib, Seaborn & Scikit-learn  
-🗄️ SQL & MySQL — Joins, Subqueries, CTEs, Window Functions & Aggregations  
-📈 Excel — Pivot Tables, XLOOKUP, VLOOKUP & Conditional Formatting  
-📉 Analytics — Data Cleaning, EDA, Statistics, Hypothesis Testing & Trend Analysis  
-🤖 AI Tools — Basic knowledge of ChatGPT, Claude, AI Automation & AI Integration  
-🎯 Targeting Data Analyst roles and looking for opportunities to apply my skills to real-world business problems.
+📍 Bengaluru, India · 📧 [manojpalanki09@gmail.com](mailto:manojpalanki09@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/manoj-palanki/)
 
 ---
 
-## 💼 Experience & Internships
+## 🚀 Featured Projects
 
-### 📊 Data Analytics Intern — EduSkills Academy
+Each project is end to end: business problem → data cleaning → SQL analysis → dashboard → insights and recommendations.
 
-**January 2026 – March 2026 | 10 Weeks**
+### 🏦 [Banking Customer Analytics & Risk Segmentation](https://github.com/ManojPalanki/Banking-Customer-Analytics-Risk-Segmentation)
 
-Completed a 10-week virtual internship focused on Data Analytics using Python, SQL, and Power BI.
+**Tools:** Excel · SQL Server · Python (pandas, scikit-learn) · Power BI
 
-- Performed data cleaning and preprocessing using Python and Pandas
-- Applied SQL fundamentals and advanced SQL techniques for data analysis
-- Worked with Python and SQL integration for data extraction
-- Built data models and DAX measures in Power BI
-- Created advanced and interactive Power BI visualizations
-- Worked on Sales Performance Analysis and Customer Behavior Analysis projects
-- Completed an E-Commerce Sales & Customer Insights Dashboard capstone project
+Analysed **45,211 bank customers** from a term-deposit telemarketing campaign to find who subscribes, when, and which customers to call next.
 
-### 📈 Tableau Developer Intern — 42 Learn
+- Overall subscription rate is **11.7%**. Students (28.7%) and retirees (22.8%) convert best.
+- Customers whose previous campaign succeeded convert at **64.7%**, which makes them the cheapest re-target list.
+- Built a **Random Forest propensity model** (0.916 AUC, 84% recall) and **RFM segments** to rank call lists.
+- Flagged **815 high-risk (default) customers** to route to risk instead of sales campaigns.
+- Documented limitations openly, including data leakage from call duration and small-sample months.
+- Delivered a 5-page Power BI dashboard with views, stored procedures and CTE/window-function queries in SQL Server.
 
-**May 2024 – June 2024**
+### 🛒 [E-Commerce Customer Funnel & Revenue Analysis](https://github.com/ManojPalanki/ecommerce-customer-funnel-analysis)
 
-- Developed interactive Tableau dashboards for business reporting
-- Worked on data visualization and business insights
-- Improved reporting efficiency through dashboard-based analysis
-- Generated actionable insights to support faster decision-making
+**Tools:** Excel Power Query · SQL Server · Power BI · DAX
+
+Analysed **25,000 website sessions** to see where the purchase journey loses customers.
+
+- **65.15% cart abandonment**: 10,501 of 16,117 add-to-cart sessions ended without a purchase.
+- Returning customers convert at **25.65%** vs **18.55%** for new customers.
+- Compared performance across devices, marketing channels, product categories and months.
+- Built a dimensional data model, DAX KPI measures and a 3-page interactive dashboard.
+
+### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/ManojPalanki/customer_shopping_behavior_analysis)
+
+**Tools:** Python (Pandas) · SQL Server · Power BI
+
+Analysed **3,900 retail transactions** to understand spending, discounts, subscriptions and loyalty.
+
+- Cleaned the data in Python: filled 37 missing ratings with the category median and engineered `age_group` and `purchase_frequency_days`.
+- Wrote 10 business SQL queries covering revenue by gender and age group, subscriber vs non-subscriber spend, discount-dependent products and customer segmentation (New / Returning / Loyal).
+- Found **$233,081** total revenue, a **$59.76** average purchase, and that **73% of customers are not subscribed**, which is the clearest growth opportunity.
+- Built an interactive Power BI dashboard with filters for gender, subscription, category and shipping type.
+
+---
+
+## 💼 Experience
+
+**📊 Data Analytics Intern — EduSkills Academy** · Jan 2026 – Mar 2026
+- Completed a 10-week virtual internship using Python, SQL and Power BI.
+- Cleaned and prepared data with Pandas, and wrote SQL for extraction and analysis.
+- Built Power BI data models and DAX measures, and delivered sales, customer behaviour and e-commerce capstone dashboards.
+
+**📈 Tableau Developer Intern — 42 Learn** · May 2024 – Jun 2024
+- Built interactive Tableau dashboards for business reporting and turned the data into insights for faster decisions.
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Skills |
+|---|---|
+| **SQL & Databases** | SQL Server, MySQL, Joins, CTEs, Subqueries, Window Functions, Views, Stored Procedures |
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Excel** | Pivot Tables, XLOOKUP, VLOOKUP, Conditional Formatting, Power Query |
+| **Power BI** | Interactive Dashboards, DAX Measures, Power Query, Data Modeling, KPI Reporting |
+| **Analytics** | Data Cleaning, EDA, Statistics, Hypothesis Testing, Trend Analysis, RFM Segmentation |
+| **Tools** | Git, GitHub, Jupyter Notebook, ChatGPT, Claude |
 
 ---
 
@@ -72,74 +92,10 @@ Completed a 10-week virtual internship focused on Data Analytics using Python, S
 
 ---
 
-## 🛠️ Tech Stack
+## 📫 Let's Connect
 
-### 📊 Data Analysis & Business Intelligence
+I'm open to **Data Analyst** opportunities and happy to collaborate on analytics and BI projects. Ask me about SQL, Python, Power BI, Excel or EDA.
 
-`Excel` `Power BI` `Tableau` `Power Query` `DAX`
+📧 [manojpalanki09@gmail.com](mailto:manojpalanki09@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/manoj-palanki/)
 
-### 🗄️ SQL & Databases
-
-`SQL` `MySQL` `Joins` `CTEs` `Subqueries` `Window Functions`
-
-### 🐍 Python & Libraries
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
-
-### 📈 Analytics
-
-`Data Cleaning` `EDA` `Statistics` `Hypothesis Testing` `Trend Analysis`
-
-### 🔧 Tools
-
-`Git` `GitHub` `Jupyter Notebook`
-
-### 🤖 AI Tools
-
-`ChatGPT` `Claude` `AI Automation` `AI Integration`
-
----
-
-## 📚 Currently Learning & Building
-
-🔭 I'm currently working on SQL projects, Python EDA, Power BI visualizations, and my Data Analytics portfolio.
-
-🌱 I'm currently strengthening my skills in SQL, Python, Excel, Power BI, and Statistics.
-
-👯 I'm looking to collaborate on Data Analytics and Business Intelligence projects.
-
-🤝 I'm looking for opportunities to work on real-world data and business problems.
-
-💬 Ask me about SQL, Python, Excel, Power BI, Data Analysis, and EDA.
-
-⚡ Fun fact: I enjoy transforming messy datasets into clear insights and meaningful business stories.
-
----
-
-## 🚀 Projects
-
-**Coming Soon — Updating with end-to-end Data Analytics projects.**
-
-Projects will include:
-
-- SQL Data Analysis
-- Python Exploratory Data Analysis
-- Excel Business Analysis
-- Power BI Interactive Dashboards
-- End-to-End Data Analytics Projects
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: manojpalanki09@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/manoj-palanki/
-
-🌐 Portfolio: https://manoj-palanki.vercel.app/
-
-💻 GitHub: https://github.com/ManojPalanki
-
----
-
-### 🎯 Open to Data Analyst Opportunities | Bengaluru, India | 2026
+⚡ *Fun fact: I enjoy turning messy datasets into clear business stories.*
